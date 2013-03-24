@@ -1,3 +1,5 @@
+#!/usr/local/bin/ruby
+
 require "mechanize"
 require "uri"
 
